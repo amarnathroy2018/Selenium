@@ -12,6 +12,7 @@ public class Test {
         for(int i=0;i<=2;i++) {
         System.setProperty("webdriver.chrome.driver", "D:\\Selenium_Project\\Installer_Eclipse\\GECKO\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
+            System.out.println("nirupom");
 
 
 
